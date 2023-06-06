@@ -1,0 +1,21 @@
+html {
+    background: rgb(142, 243, 243)
+}
+
+body {
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 65px;
+    background:rgb(191, 221, 221)
+}
+
+img {
+    width: 150px;
+    height: auto;
+}
+li {
+    font-family: sans-serif;
+    font-size: 30px;
+}
