@@ -1,23 +1,52 @@
 html {
-    background: rgb(142, 243, 243)
+    background: rgb(172, 238, 238)
 }
 
 body {
     font-family: Arial;
+    margin:0;
 }
 
 h1 {
     font-size: 65px;
-    background:rgb(200, 199, 245);
+    background:rgb(255, 255, 255);
     font-weight: lighter;
+    margin-top: 0;
+    text-align: center;
+    padding: 20px;
+    
+    
 }
 
 img {
-    width: 150px;
-    height: auto;
+    
+    width: auto;
+    height: 150px;
+    
+}
+
+ul{
+    text-align: center;
+    margin: 250px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
 }
 li {
+    display: inline-block;
     font-family: Verdana;
     font-size: 30px;
-    color: rgb(155, 13, 173);
+    padding: 48px;
+    padding-left: 0px;
+    
+}
+#logo {
+    width: 85px;
+    height: auto;
+    float: left;
+    
+}
+h1 center{
+    
+    display: inline;
 }
